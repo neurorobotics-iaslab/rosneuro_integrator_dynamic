@@ -1,0 +1,5 @@
+<library path="lib/librosneuro_integrator_dynamic">
+  <class type="rosneuro::integrator::Dynamic" base_class_type="rosneuro::integrator::GenericIntegrator">
+    <description>This is the ROSNeuro Integrator Dynamic plugin.</description>
+  </class>
+</library>
